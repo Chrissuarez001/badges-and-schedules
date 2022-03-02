@@ -20,7 +20,7 @@ describe 'conference_badges' do
                             "Hello, Charles! You'll be assigned to room 3!",
                             "Hello, Alan! You'll be assigned to room 4!",
                             "Hello, Grace! You'll be assigned to room 5!",
-                            "Hello, Linus! You'll be assigned to room 6!",
+                            "Hello, Linus! You'll be assigned to room 6!s",
                             "Hello, Matz! You'll be assigned to room 7!"
                          ]}
 
